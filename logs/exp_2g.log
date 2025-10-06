@@ -1,0 +1,15 @@
+[1,0]<stdout>:Files already downloaded and verified
+[1,1]<stdout>:Files already downloaded and verified
+[1,0]<stdout>:Files already downloaded and verified
+[1,1]<stdout>:Files already downloaded and verified
+[1,0]<stdout>:NCCL version 2.8.4+cuda11.1
+[1,0]<stdout>:[Epoch 1] per-rank=2159.7 img/s | global=4319.4 img/s
+[1,0]<stdout>:val_acc=26.24%
+[1,0]<stdout>:[Epoch 2] per-rank=4892.4 img/s | global=9738.8 img/s
+[1,0]<stdout>:val_acc=46.47%
+[1,0]<stdout>:[Epoch 3] per-rank=4901.1 img/s | global=9761.4 img/s
+[1,0]<stdout>:val_acc=52.68%
+[1,0]<stdout>:[Epoch 4] per-rank=4880.3 img/s | global=9717.5 img/s
+[1,0]<stdout>:val_acc=54.15%
+[1,0]<stdout>:[Epoch 5] per-rank=4940.3 img/s | global=9845.4 img/s
+[1,0]<stdout>:val_acc=54.25%
